@@ -1,0 +1,14 @@
+{
+  "ORD123": {
+    "tracking_id": "TRK789",
+    "status": "Shipped",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 50
+  },
+  "ORD999": {
+    "tracking_id": "TRK555",
+    "status": "Out for Delivery",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0
+  }
+}
