@@ -10,5 +10,79 @@
     "status": "Out for Delivery",
     "eligible_for_cancellation": false,
     "cancellation_fee": 0
+  },
+  "ORD123": {
+    "tracking_id": "TRK789",
+    "status": "Shipped",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 50
+  },
+  "ORD999": {
+    "tracking_id": "TRK555",
+    "status": "Out for Delivery",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0
+  },
+
+  "ORD201": {
+    "tracking_id": "TRK901",
+    "status": "Packed",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 0
+  },
+  "ORD202": {
+    "tracking_id": "TRK902",
+    "status": "Shipped",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 30
+  },
+  "ORD203": {
+    "tracking_id": "TRK903",
+    "status": "In Transit",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 75
+  },
+  "ORD204": {
+    "tracking_id": "TRK904",
+    "status": "At Destination",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0
+  },
+  "ORD205": {
+    "tracking_id": "TRK905",
+    "status": "Out for Delivery",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0
+  },
+  "ORD206": {
+    "tracking_id": "TRK906",
+    "status": "Delivered",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0
+  },
+  "ORD207": {
+    "tracking_id": "TRK907",
+    "status": "Delivery Failed",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0
+  },
+  "ORD208": {
+    "tracking_id": "TRK908",
+    "status": "Cancellation Requested",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 40
+  },
+  "ORD209": {
+    "tracking_id": "TRK909",
+    "status": "Delayed",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 20
+  },
+  "ORD210": {
+    "tracking_id": "TRK910",
+    "status": "Exception",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0
   }
 }
+
