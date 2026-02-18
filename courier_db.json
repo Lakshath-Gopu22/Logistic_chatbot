@@ -6,5 +6,55 @@
   "TRK555": {
     "current_location": "Customer City",
     "status": "Out for Delivery"
+  },
+  "TRK789": {
+    "current_location": "Hyderabad Hub",
+    "status": "In Transit"
+  },
+  "TRK555": {
+    "current_location": "Customer City",
+    "status": "Out for Delivery"
+  },
+
+  "TRK901": {
+    "current_location": "Warehouse - Chennai",
+    "status": "Awaiting Pickup"
+  },
+  "TRK902": {
+    "current_location": "Origin Hub - Chennai",
+    "status": "Processing at Facility"
+  },
+  "TRK903": {
+    "current_location": "Nagpur Sort Center",
+    "status": "In Transit"
+  },
+  "TRK904": {
+    "current_location": "Bangalore Final Hub",
+    "status": "Ready for Delivery"
+  },
+  "TRK905": {
+    "current_location": "Customer Area - Whitefield",
+    "status": "Out for Delivery"
+  },
+  "TRK906": {
+    "current_location": "Delivered to Customer",
+    "status": "Delivered"
+  },
+  "TRK907": {
+    "current_location": "Return Transit - Pune",
+    "status": "RTO Initiated"
+  },
+  "TRK908": {
+    "current_location": "Intercepted at Mumbai Hub",
+    "status": "Returning to Warehouse"
+  },
+  "TRK909": {
+    "current_location": "Ahmedabad Hub",
+    "status": "Delay Due to Weather"
+  },
+  "TRK910": {
+    "current_location": "Unknown",
+    "status": "Shipment Under Investigation"
   }
 }
+
