@@ -1,0 +1,121 @@
+{
+  "ORD1001": {
+    "tracking_id": "TRK1001",
+    "status": "Packed",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 0,
+    "refund_amount": 1200,
+    "payment_mode": "UPI",
+    "order_value": 1200,
+    "eta": "2026-02-26",
+    "customer_city": "Chennai"
+  },
+
+  "ORD1002": {
+    "tracking_id": "TRK1002",
+    "status": "In Transit",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 100,
+    "refund_amount": 1900,
+    "payment_mode": "Card",
+    "order_value": 2000,
+    "eta": "2026-02-25",
+    "customer_city": "Bangalore"
+  },
+
+  "ORD1003": {
+    "tracking_id": "TRK1003",
+    "status": "Out for Delivery",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0,
+    "refund_amount": 0,
+    "payment_mode": "UPI",
+    "order_value": 1500,
+    "eta": "2026-02-24",
+    "customer_city": "Hyderabad"
+  },
+
+  "ORD1004": {
+    "tracking_id": "TRK1004",
+    "status": "Delivered",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0,
+    "refund_amount": 0,
+    "payment_mode": "COD",
+    "order_value": 850,
+    "eta": "2026-02-22",
+    "customer_city": "Mumbai"
+  },
+
+  "ORD1005": {
+    "tracking_id": "TRK1005",
+    "status": "Delayed",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 50,
+    "refund_amount": 950,
+    "payment_mode": "UPI",
+    "order_value": 1000,
+    "eta": "2026-02-28",
+    "customer_city": "Kolkata"
+  },
+
+  "ORD1006": {
+    "tracking_id": "TRK1006",
+    "status": "Return Initiated",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0,
+    "refund_amount": 1800,
+    "payment_mode": "Card",
+    "order_value": 1800,
+    "eta": "2026-03-01",
+    "customer_city": "Delhi"
+  },
+
+  "ORD1007": {
+    "tracking_id": "TRK1007",
+    "status": "Lost in Transit",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0,
+    "refund_amount": 2500,
+    "payment_mode": "UPI",
+    "order_value": 2500,
+    "eta": "N/A",
+    "customer_city": "Pune"
+  },
+
+  "ORD2001": {
+    "tracking_id": "TRK2001",
+    "status": "In Transit",
+    "eligible_for_cancellation": true,
+    "cancellation_fee": 200,
+    "refund_amount": 4800,
+    "payment_mode": "Card",
+    "order_value": 5000,
+    "eta": "2026-02-27",
+    "customer_city": "Coimbatore"
+  },
+
+  "ORD2002": {
+    "tracking_id": "TRK2002",
+    "status": "Lost in Transit",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0,
+    "refund_amount": 3200,
+    "payment_mode": "UPI",
+    "order_value": 3200,
+    "eta": "N/A",
+    "customer_city": "Ahmedabad"
+  },
+
+  "ORD2003": {
+    "tracking_id": "TRK2003",
+    "status": "Delivered",
+    "eligible_for_cancellation": false,
+    "cancellation_fee": 0,
+    "refund_amount": 0,
+    "payment_mode": "COD",
+    "order_value": 999,
+    "eta": "2026-02-21",
+    "customer_city": "Trichy"
+  }
+}
