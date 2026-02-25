@@ -1,0 +1,81 @@
+{
+  "TRK1001": {
+    "current_location": "Chennai Warehouse",
+    "status": "Packed",
+    "last_scan": "2026-02-24 10:30",
+    "next_hub": "Chennai Dispatch Center",
+    "delay_reason": null
+  },
+
+  "TRK1002": {
+    "current_location": "Bangalore Hub",
+    "status": "In Transit",
+    "last_scan": "2026-02-24 14:20",
+    "next_hub": "Chennai Hub",
+    "delay_reason": null
+  },
+
+  "TRK1003": {
+    "current_location": "Hyderabad Local Hub",
+    "status": "Out for Delivery",
+    "last_scan": "2026-02-24 08:10",
+    "next_hub": "Customer Address",
+    "delay_reason": null
+  },
+
+  "TRK1004": {
+    "current_location": "Customer Address",
+    "status": "Delivered",
+    "last_scan": "2026-02-22 17:45",
+    "next_hub": null,
+    "delay_reason": null
+  },
+
+  "TRK1005": {
+    "current_location": "Kolkata Hub",
+    "status": "Delayed",
+    "last_scan": "2026-02-23 19:00",
+    "next_hub": "Kolkata Dispatch Center",
+    "delay_reason": "Heavy rainfall affecting transport"
+  },
+
+  "TRK1006": {
+    "current_location": "Delhi Return Center",
+    "status": "Return Initiated",
+    "last_scan": "2026-02-23 12:15",
+    "next_hub": "Seller Warehouse",
+    "delay_reason": null
+  },
+
+  "TRK1007": {
+    "current_location": "Unknown",
+    "status": "Lost in Transit",
+    "last_scan": "2026-02-20 22:00",
+    "next_hub": null,
+    "delay_reason": "Package missing after hub transfer"
+  },
+
+  "TRK2001": {
+    "current_location": "Coimbatore Hub",
+    "status": "In Transit",
+    "last_scan": "2026-02-24 16:00",
+    "next_hub": "Coimbatore Delivery Center",
+    "delay_reason": null
+  },
+
+  "TRK2002": {
+    "current_location": "Ahmedabad Hub",
+    "status": "Lost in Transit",
+    "last_scan": "2026-02-21 21:30",
+    "next_hub": null,
+    "delay_reason": "Shipment misplaced during sorting"
+  },
+
+  "TRK2003": {
+    "current_location": "Customer Address",
+    "status": "Delivered",
+    "last_scan": "2026-02-21 15:20",
+    "next_hub": null,
+    "delay_reason": null
+  }
+}
